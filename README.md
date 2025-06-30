@@ -1,11 +1,13 @@
 
 🎓 Student Management System using Spring Boot & Thymeleaf
+
 🚀 Motivation
 In earlier projects like Todo Management and User Management, CRUD operations were performed using Spring Boot, but the interaction required tools like Postman or writing custom JSON requests. This manual process was tedious and impractical for regular use.
 
 This project improves usability by adding a user-friendly web interface using Thymeleaf, allowing users to interact with the system via forms and buttons, without relying on external clients or manual API calls.
 
 🌐 Introduction to Thymeleaf
+
 Thymeleaf is a modern server-side Java template engine for processing HTML, XML, JavaScript, and more. It integrates seamlessly with Spring MVC, making it easy to build full-featured web applications.
 
 📌 How It Works:
